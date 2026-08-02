@@ -8,9 +8,11 @@ UserSettings/
 MemoryCaptures/
 
 # Visual Studio
+.vscode/
 .vs/
 *.csproj
 *.sln
+*.slnx
 *.user
 *.userprefs
 *.pidb
